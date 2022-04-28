@@ -28,10 +28,14 @@
     ],
     "sport_areas": [
       {
-        "name": "Basketball Court B",
-        "description": "A court to shoot balls",
-        "latitude": 38.99771992297379,
-        "longitude": -77.49901956677778,
+        "details": {
+          "name": "Basketball Court B",
+          "description": "A court to shoot balls"
+        },
+        "coordinates": {
+          "latitude": 38.99771992297379,
+          "longitude": -77.49901956677778
+        },
         "bounds": [
           {
             "latitude": 38.997762668639886,
@@ -52,10 +56,14 @@
         ]
       },
       {
-        "name": "Basketball Court A",
-        "description": "A court to shoot balls",
-        "latitude": 38.99772876690638,
-        "longitude": -77.49936095624317,
+        "details": {
+          "name": "Basketball Court A",
+          "description": "A court to shoot balls"
+        },
+        "coordinates": {
+          "latitude": 38.99772876690638,
+          "longitude": -77.49936095624317
+        },
         "bounds": [
           {
             "latitude": 38.997790674403596,
@@ -76,10 +84,14 @@
         ]
       },
       {
-        "name": "Tennis Court A",
-        "description": "A court to hit balls",
-        "latitude": 38.99725119296447,
-        "longitude": -77.49928698852565,
+        "details": {
+          "name": "Tennis Court A",
+          "description": "A court to hit balls"
+        },
+        "coordinates": {
+          "latitude": 38.99725119296447,
+          "longitude": -77.49928698852565
+        }
         "bounds": [
           {
             "latitude": 38.99729099091607,

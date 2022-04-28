@@ -1,0 +1,104 @@
+{
+  "0": {
+    "details": {
+      "name": "Evermoore Park",
+      "description": "A nice park in Broadlands"
+    },
+    "coordinates": {
+      "latitude": 38.997283,
+      "longitude": -77.499521
+    },
+    "bounds": [
+      {
+        "latitude": 38.99780090906601,
+        "longitude": -77.50010738773118
+      },
+      {
+        "latitude": 38.99780090906601,
+        "longitude": -77.49892719807058
+      },
+      {
+        "latitude": 38.99691592157463,
+        "longitude": -77.4989431465795
+      },
+      {
+        "latitude": 38.99694814820406,
+        "longitude": -77.50017118176687
+      }
+    ],
+    "sport_areas": [
+      {
+        "name": "Basketball Court B",
+        "description": "A court to shoot balls",
+        "latitude": 38.99771992297379,
+        "longitude": -77.49901956677778,
+        "bounds": [
+          {
+            "latitude": 38.997762668639886,
+            "longitude": -77.4991580191709
+          },
+          {
+            "latitude": 38.99775972066391,
+            "longitude": -77.49891525332883
+          },
+          {
+            "latitude": 38.99754157009933,
+            "longitude": -77.49891146011255
+          },
+          {
+            "latitude": 38.99754304409188,
+            "longitude": -77.49913905308948
+          }
+        ]
+      },
+      {
+        "name": "Basketball Court A",
+        "description": "A court to shoot balls",
+        "latitude": 38.99772876690638,
+        "longitude": -77.49936095624317,
+        "bounds": [
+          {
+            "latitude": 38.997790674403596,
+            "longitude": -77.49923388349771
+          },
+          {
+            "latitude": 38.99779804434015,
+            "longitude": -77.49948044255606
+          },
+          {
+            "latitude": 38.99760642574069,
+            "longitude": -77.49948802898862
+          },
+          {
+            "latitude": 38.997604951749445,
+            "longitude": -77.49925095297098
+          }
+        ]
+      },
+      {
+        "name": "Tennis Court A",
+        "description": "A court to hit balls",
+        "latitude": 38.99725119296447,
+        "longitude": -77.49928698852565,
+        "bounds": [
+          {
+            "latitude": 38.99729099091607,
+            "longitude": -77.49939319858157
+          },
+          {
+            "latitude": 38.99729541290932,
+            "longitude": -77.49915422595579
+          },
+          {
+            "latitude": 38.9971612789914,
+            "longitude": -77.49914663952322
+          },
+          {
+            "latitude": 38.9971612789914,
+            "longitude": -77.49937423250016
+          }
+        ]
+      }
+    ]
+  }
+}
